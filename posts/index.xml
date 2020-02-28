@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Musings from John</title>
+    <link>http://jpeabodyjr.com/posts/</link>
+    <description>Recent content in Posts on Musings from John</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Feb 2020 22:24:54 -0500</lastBuildDate>
+    
+	<atom:link href="http://jpeabodyjr.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rebuilding my website</title>
+      <link>http://jpeabodyjr.com/posts/rebuilding-my-website/</link>
+      <pubDate>Thu, 27 Feb 2020 22:24:54 -0500</pubDate>
+      
+      <guid>http://jpeabodyjr.com/posts/rebuilding-my-website/</guid>
+      <description>Whelp, I&amp;rsquo;m jumping on the static website bandwagon!
+I played around a bit with Jeykll, but then put the website revamp on hold for a while. Coming back to the project I kicked off a fresh search of static site generators and discovered Hugo.
+The setup overhead is very minimal and the themes available are pretty slick. So, I&amp;rsquo;ll give this a go&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

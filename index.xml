@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musings from John</title>
+    <link>http://jpeabodyjr.com/</link>
+    <description>Recent content on Musings from John</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Feb 2020 22:24:54 -0500</lastBuildDate>
+    
+	<atom:link href="http://jpeabodyjr.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rebuilding my website</title>
+      <link>http://jpeabodyjr.com/posts/rebuilding-my-website/</link>
+      <pubDate>Thu, 27 Feb 2020 22:24:54 -0500</pubDate>
+      
+      <guid>http://jpeabodyjr.com/posts/rebuilding-my-website/</guid>
+      <description>Whelp, I&amp;rsquo;m jumping on the static website bandwagon!
+I played around a bit with Jeykll, but then put the website revamp on hold for a while. Coming back to the project I kicked off a fresh search of static site generators and discovered Hugo.
+The setup overhead is very minimal and the themes available are pretty slick. So, I&amp;rsquo;ll give this a go&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>LabRat - Autonomous search and rescue robot</title>
+      <link>http://jpeabodyjr.com/projects/labrat/</link>
+      <pubDate>Thu, 02 Dec 2010 00:00:00 -0500</pubDate>
+      
+      <guid>http://jpeabodyjr.com/projects/labrat/</guid>
+      <description>One of the classes that I took while earning my Master’s Degree at CMU wasHardware for Software Engineers instructed by Professor Anthony Lattanze. Not only was the class well taught, but the final project was a blast.
+The LabRat is an autonomous robot designed by John Peabody Jr and Krishna Ersson to complete a search-and-rescue challenge. On a 4′ x 6′ game board, the LabRat was designed and programmed to autonomously locate pylons, randomly placed, and return the pylons to the home square.</description>
+    </item>
+    
+    <item>
+      <title>COTS Impact on Software Development Life Cycles</title>
+      <link>http://jpeabodyjr.com/papers/cots_impact_on_sdlcs/</link>
+      <pubDate>Sun, 08 Aug 2010 00:00:00 -0400</pubDate>
+      
+      <guid>http://jpeabodyjr.com/papers/cots_impact_on_sdlcs/</guid>
+      <description>Executive Summary The utilization of commercial off-the-shelf (COTS) components is increasing within many organizations. The idea being that delivery dates, effort, cost, and the amount of custom development can all be reduced by integrating COTS components into a system. The issue however, is that many organizations lack a process oriented evaluation method for selecting off-the-shelf components they will benefit from. The result can be the selection of a component that increases development overhead rather than reducing it.</description>
+    </item>
+    
+    <item>
+      <title>Rushing Risk Management</title>
+      <link>http://jpeabodyjr.com/papers/rushing-risk-management/</link>
+      <pubDate>Sun, 08 Aug 2010 00:00:00 -0400</pubDate>
+      
+      <guid>http://jpeabodyjr.com/papers/rushing-risk-management/</guid>
+      <description>Executive Summary (Full paper here) Continuous risk management is a process that a development team can utilize in a software development life-cycle to drastically decrease the chances of project failure. This process typically contains the following activities:
+ Identify Analyze Plan Track Control  Additionally, the most important aspect of the process is communication. Communication is what facilitates understanding, as well as informs the decisions makers of risks that exist, and what the recommendations are to mitigate those risks before they turn into problems.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://jpeabodyjr.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jpeabodyjr.com/about/</guid>
+      <description>John Peabody Jr has been a New Englander his entire life. Raised in Connecticut, John was exposed to computers and the world of technology at an early age. Throughout high school, his interest with technology was fostered through various classes and part time jobs in the Information Technology field.
+After high school John attended Wentworth Institute of Technology (WIT) in Boston, Massachusetts and majored in Computer Engineering. During his attendance at WIT, he accepted an intern position at MIT Lincoln Laboratory in the Aerospace Division.</description>
+    </item>
+    
+  </channel>
+</rss>
