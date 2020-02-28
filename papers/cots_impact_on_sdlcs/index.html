@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="John Peabody Jr">
+    <meta name="description" content="John P personal website">
+    <meta name="keywords" content="blog,developer,personal">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="COTS Impact on Software Development Life Cycles"/>
+<meta name="twitter:description" content="Executive Summary The utilization of commercial off-the-shelf (COTS) components is increasing within many organizations. The idea being that delivery dates, effort, cost, and the amount of custom development can all be reduced by integrating COTS components into a system. The issue however, is that many organizations lack a process oriented evaluation method for selecting off-the-shelf components they will benefit from. The result can be the selection of a component that increases development overhead rather than reducing it."/>
+
+    <meta property="og:title" content="COTS Impact on Software Development Life Cycles" />
+<meta property="og:description" content="Executive Summary The utilization of commercial off-the-shelf (COTS) components is increasing within many organizations. The idea being that delivery dates, effort, cost, and the amount of custom development can all be reduced by integrating COTS components into a system. The issue however, is that many organizations lack a process oriented evaluation method for selecting off-the-shelf components they will benefit from. The result can be the selection of a component that increases development overhead rather than reducing it." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://jpeabodyjr.com/papers/cots_impact_on_sdlcs/" />
+<meta property="article:published_time" content="2010-08-08T00:00:00-04:00" />
+<meta property="article:modified_time" content="2010-08-08T00:00:00-04:00" />
+
+
+    
+      <base href="http://jpeabodyjr.com/papers/cots_impact_on_sdlcs/">
+    
+    <title>
+  COTS Impact on Software Development Life Cycles · Musings from John
+</title>
+
+    
+      <link rel="canonical" href="http://jpeabodyjr.com/papers/cots_impact_on_sdlcs/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.a4f332213a21ce8eb521670c614470c58923aaaf385e2a73982c31dd7642decb.css" integrity="sha256-pPMyITohzo61IWcMYURwxYkjqq84XipzmCwx3XZC3ss=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="/css/coder-dark.min.83a2010dac9f59f943b3004cd6c4f230507ad036da635d3621401d42ec4e2835.css" integrity="sha256-g6IBDayfWflDswBM1sTyMFB60DbaY102IUAdQuxOKDU=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="http://jpeabodyjr.com/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="http://jpeabodyjr.com/images/favicon-16x16.png" sizes="16x16">
+
+    <meta name="generator" content="Hugo 0.64.1" />
+  </head>
+
+  
+  
+    
+  
+  <body class="colorscheme-auto">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      Musings from John
+    </a>
+    
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="http://jpeabodyjr.com/posts/">Blog</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="http://jpeabodyjr.com/projects/">Projects</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="http://jpeabodyjr.com/papers/">Papers</a>
+          </li>
+        
+      
+      
+    </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container page">
+  <article>
+    <header>
+      <h1>COTS Impact on Software Development Life Cycles</h1>
+    </header>
+
+    <h2 id="executive-summary">Executive Summary</h2>
+<p>The utilization of commercial off-the-shelf (COTS) components is increasing within many organizations. The idea being that delivery dates, effort, cost, and the amount of custom development can all be reduced by integrating COTS components into a system. The issue however, is that many organizations lack a process oriented evaluation method for selecting off-the-shelf components they will benefit from. The result can be the selection of a component that increases development overhead rather than reducing it.
+A handful of COTS component evaluation methods exist, but integrating these methods within an organizations development life cycle can be challenging. The paradigm shift from complete custom developed systems to COTS-based systems “requires new understandings about the COTS marketplace and how all engineering, business, and management activities must work together harmoniously to accommodate it.” [Oberndorf 00] This report provides a high level overview of three existing COTS evaluation methods:</p>
+<ul>
+<li>The Evolutionary Process for Integrating COTS-Based Systems (EPIC)</li>
+<li>The PECA (Plan, Establish, Collect, Analyze) Process</li>
+<li>The COTS Usage Risk Evaluation (CURE) Method</li>
+</ul>
+<p>It then provides suggestions on merging these evaluation techniques into an organizations development lifecycle. Any development life cycle that is supporting a COTS-based system must be iterative or cyclic in nature. This is driven by the following two key reasons:</p>
+<ul>
+<li>The COTS market is volatile in nature.</li>
+<li>The inter-dependencies between the system context, system architecture, and COTS component selection must be overcome.</li>
+</ul>
+<p>COTS-based systems are increasing in popularity, yet methods to ensure the successful development of these systems are difficult to incorporate within the development life cycles of many organizations. While methods exist it is both the lack of knowledge as well as the lack of understanding that COTS-based systems require changes in process, culture, and techniques in order to mitigate the unique risks that arise when leveraging off-the-shelf components.</p>
+<p><a href="/papers/Peabody_COTSImpactOnSWDevLifeCycles.pdf">Full paper</a></p>
+
+  </article>
+</section>
+
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    
+      <p>Shift all the bits!</p>
+    
+    
+      
+        © 2020
+      
+       John Peabody Jr 
+    
+    
+       · 
+      Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+    
+    
+  </section>
+</footer>
+
+    </main>
+
+    
+
+    
+
+  </body>
+
+</html>

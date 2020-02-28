@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on Musings from John</title>
+    <link>http://jpeabodyjr.com/papers/</link>
+    <description>Recent content in Papers on Musings from John</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Aug 2010 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://jpeabodyjr.com/papers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COTS Impact on Software Development Life Cycles</title>
+      <link>http://jpeabodyjr.com/papers/cots_impact_on_sdlcs/</link>
+      <pubDate>Sun, 08 Aug 2010 00:00:00 -0400</pubDate>
+      
+      <guid>http://jpeabodyjr.com/papers/cots_impact_on_sdlcs/</guid>
+      <description>Executive Summary The utilization of commercial off-the-shelf (COTS) components is increasing within many organizations. The idea being that delivery dates, effort, cost, and the amount of custom development can all be reduced by integrating COTS components into a system. The issue however, is that many organizations lack a process oriented evaluation method for selecting off-the-shelf components they will benefit from. The result can be the selection of a component that increases development overhead rather than reducing it.</description>
+    </item>
+    
+    <item>
+      <title>Rushing Risk Management</title>
+      <link>http://jpeabodyjr.com/papers/rushing-risk-management/</link>
+      <pubDate>Sun, 08 Aug 2010 00:00:00 -0400</pubDate>
+      
+      <guid>http://jpeabodyjr.com/papers/rushing-risk-management/</guid>
+      <description>Executive Summary (Full paper here) Continuous risk management is a process that a development team can utilize in a software development life-cycle to drastically decrease the chances of project failure. This process typically contains the following activities:
+ Identify Analyze Plan Track Control  Additionally, the most important aspect of the process is communication. Communication is what facilitates understanding, as well as informs the decisions makers of risks that exist, and what the recommendations are to mitigate those risks before they turn into problems.</description>
+    </item>
+    
+  </channel>
+</rss>

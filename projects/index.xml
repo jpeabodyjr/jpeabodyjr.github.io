@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Musings from John</title>
+    <link>http://jpeabodyjr.com/projects/</link>
+    <description>Recent content in Projects on Musings from John</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Dec 2010 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://jpeabodyjr.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LabRat - Autonomous search and rescue robot</title>
+      <link>http://jpeabodyjr.com/projects/labrat/</link>
+      <pubDate>Thu, 02 Dec 2010 00:00:00 -0500</pubDate>
+      
+      <guid>http://jpeabodyjr.com/projects/labrat/</guid>
+      <description>One of the classes that I took while earning my Master’s Degree at CMU wasHardware for Software Engineers instructed by Professor Anthony Lattanze. Not only was the class well taught, but the final project was a blast.
+The LabRat is an autonomous robot designed by John Peabody Jr and Krishna Ersson to complete a search-and-rescue challenge. On a 4′ x 6′ game board, the LabRat was designed and programmed to autonomously locate pylons, randomly placed, and return the pylons to the home square.</description>
+    </item>
+    
+  </channel>
+</rss>
