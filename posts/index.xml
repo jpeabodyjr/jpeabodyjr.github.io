@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Musings from John</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Feb 2020 22:24:54 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 21:37:22 -0500</lastBuildDate>
     
 	<atom:link href="http://jpeabodyjr.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Review: &#39;On the Metal&#39; Podcast</title>
+      <link>http://jpeabodyjr.com/posts/review-on-the-metal-podcast/</link>
+      <pubDate>Fri, 28 Feb 2020 21:37:22 -0500</pubDate>
+      
+      <guid>http://jpeabodyjr.com/posts/review-on-the-metal-podcast/</guid>
+      <description>Historically, I&amp;rsquo;m not a regular listener of podcasts. It&amp;rsquo;s usually audiobooks for me during the daily commute. Recently though, my colleague Sebastian recommended &amp;ldquo;On the Metal: Tales for the Hardware/Software Interface&amp;rdquo;. I was blown away!
+Each episode features a new guest who describes various tales from the hardware/software interface. The interview format kept the conversation moving resulting in an extremely entertaining, mind opening listening experience. Then I realized the show notes provide links to all the topics I wanted to research from each episode; mind blown.</description>
+    </item>
     
     <item>
       <title>Rebuilding my website</title>
