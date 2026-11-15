@@ -2,33 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papers on Musings from John</title>
-    <link>http://jpeabodyjr.com/papers/</link>
+    <link>https://jpeabodyjr.com/papers/</link>
     <description>Recent content in Papers on Musings from John</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Aug 2010 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="http://jpeabodyjr.com/papers/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 08 Aug 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jpeabodyjr.com/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COTS Impact on Software Development Life Cycles</title>
-      <link>http://jpeabodyjr.com/papers/cots_impact_on_sdlcs/</link>
-      <pubDate>Sun, 08 Aug 2010 00:00:00 -0400</pubDate>
-      
-      <guid>http://jpeabodyjr.com/papers/cots_impact_on_sdlcs/</guid>
-      <description>Executive Summary The utilization of commercial off-the-shelf (COTS) components is increasing within many organizations. The idea being that delivery dates, effort, cost, and the amount of custom development can all be reduced by integrating COTS components into a system. The issue however, is that many organizations lack a process oriented evaluation method for selecting off-the-shelf components they will benefit from. The result can be the selection of a component that increases development overhead rather than reducing it.</description>
+      <link>https://jpeabodyjr.com/papers/cots_impact_on_sdlcs/</link>
+      <pubDate>Sun, 08 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://jpeabodyjr.com/papers/cots_impact_on_sdlcs/</guid>
+      <description>&lt;h2 id=&#34;executive-summary&#34;&gt;&#xA;  Executive Summary&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#executive-summary&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The utilization of commercial off-the-shelf (COTS) components is increasing within many organizations. The idea being that delivery dates, effort, cost, and the amount of custom development can all be reduced by integrating COTS components into a system. The issue however, is that many organizations lack a process oriented evaluation method for selecting off-the-shelf components they will benefit from. The result can be the selection of a component that increases development overhead rather than reducing it.&#xA;A handful of COTS component evaluation methods exist, but integrating these methods within an organizations development life cycle can be challenging. The paradigm shift from complete custom developed systems to COTS-based systems “requires new understandings about the COTS marketplace and how all engineering, business, and management activities must work together harmoniously to accommodate it.” [Oberndorf 00] This report provides a high level overview of three existing COTS evaluation methods:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rushing Risk Management</title>
-      <link>http://jpeabodyjr.com/papers/rushing-risk-management/</link>
-      <pubDate>Sun, 08 Aug 2010 00:00:00 -0400</pubDate>
-      
-      <guid>http://jpeabodyjr.com/papers/rushing-risk-management/</guid>
-      <description>Executive Summary (Full paper here) Continuous risk management is a process that a development team can utilize in a software development life-cycle to drastically decrease the chances of project failure. This process typically contains the following activities:
- Identify Analyze Plan Track Control  Additionally, the most important aspect of the process is communication. Communication is what facilitates understanding, as well as informs the decisions makers of risks that exist, and what the recommendations are to mitigate those risks before they turn into problems.</description>
+      <link>https://jpeabodyjr.com/papers/rushing-risk-management/</link>
+      <pubDate>Sun, 08 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://jpeabodyjr.com/papers/rushing-risk-management/</guid>
+      <description>&lt;p&gt;Executive Summary (Full paper here)&#xA;Continuous risk management is a process that a development team can utilize in a software development life-cycle to drastically decrease the chances of project failure. This process typically contains the following activities:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Identify&lt;/li&gt;&#xA;&lt;li&gt;Analyze&lt;/li&gt;&#xA;&lt;li&gt;Plan&lt;/li&gt;&#xA;&lt;li&gt;Track&lt;/li&gt;&#xA;&lt;li&gt;Control&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Additionally, the most important aspect of the process is communication. Communication is what facilitates understanding, as well as informs the decisions makers of risks that exist, and what the recommendations are to mitigate those risks before they turn into problems.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
