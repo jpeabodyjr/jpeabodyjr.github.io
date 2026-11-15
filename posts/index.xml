@@ -2,35 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Musings from John</title>
-    <link>http://jpeabodyjr.com/posts/</link>
+    <link>https://jpeabodyjr.com/posts/</link>
     <description>Recent content in Posts on Musings from John</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 28 Feb 2020 21:37:22 -0500</lastBuildDate>
-    
-	<atom:link href="http://jpeabodyjr.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jpeabodyjr.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review: &#39;On the Metal&#39; Podcast</title>
-      <link>http://jpeabodyjr.com/posts/review-on-the-metal-podcast/</link>
+      <link>https://jpeabodyjr.com/posts/review-on-the-metal-podcast/</link>
       <pubDate>Fri, 28 Feb 2020 21:37:22 -0500</pubDate>
-      
-      <guid>http://jpeabodyjr.com/posts/review-on-the-metal-podcast/</guid>
-      <description>Historically, I&amp;rsquo;m not a regular listener of podcasts. It&amp;rsquo;s usually audiobooks for me during the daily commute. Recently though, my colleague Sebastian recommended &amp;ldquo;On the Metal: Tales for the Hardware/Software Interface&amp;rdquo;. I was blown away!
-Each episode features a new guest who describes various tales from the hardware/software interface. The interview format kept the conversation moving resulting in an extremely entertaining, mind opening listening experience. Then I realized the show notes provide links to all the topics I wanted to research from each episode; mind blown.</description>
+      <guid>https://jpeabodyjr.com/posts/review-on-the-metal-podcast/</guid>
+      <description>&lt;p&gt;Historically, I&amp;rsquo;m not a regular listener of podcasts. It&amp;rsquo;s usually audiobooks for me&#xA;during the daily commute. Recently though, my colleague &lt;a href=&#34;https://twitter.com/sebschaetz&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sebastian&lt;/a&gt; recommended &lt;a href=&#34;https://oxide.computer/blog/categories/on-the-metal/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;On the Metal: Tales for the Hardware/Software Interface&amp;rdquo;&lt;/a&gt;. I was blown away!&lt;/p&gt;&#xA;&lt;p&gt;Each episode features a new guest who describes various tales from the hardware/software interface. The interview format kept the conversation moving resulting in&#xA;an extremely entertaining, mind opening listening experience. Then I realized the show notes provide links to all the topics I wanted to research from each episode; mind blown.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rebuilding my website</title>
-      <link>http://jpeabodyjr.com/posts/rebuilding-my-website/</link>
+      <link>https://jpeabodyjr.com/posts/rebuilding-my-website/</link>
       <pubDate>Thu, 27 Feb 2020 22:24:54 -0500</pubDate>
-      
-      <guid>http://jpeabodyjr.com/posts/rebuilding-my-website/</guid>
-      <description>Whelp, I&amp;rsquo;m jumping on the static website bandwagon!
-I played around a bit with Jeykll, but then put the website revamp on hold for a while. Coming back to the project I kicked off a fresh search of static site generators and discovered Hugo.
-The setup overhead is very minimal and the themes available are pretty slick. So, I&amp;rsquo;ll give this a go&amp;hellip;</description>
+      <guid>https://jpeabodyjr.com/posts/rebuilding-my-website/</guid>
+      <description>&lt;p&gt;Whelp, I&amp;rsquo;m jumping on the static website bandwagon!&lt;/p&gt;&#xA;&lt;p&gt;I played around a bit with &lt;a href=&#34;https://jekyllrb.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeykll&lt;/a&gt;, but then put the website revamp on hold for a while. Coming back to the project I kicked off a fresh search of static&#xA;site generators and discovered &lt;a href=&#34;https://gohugo.io/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The setup overhead is very minimal and the themes available are pretty slick.&#xA;So, I&amp;rsquo;ll give this a go&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

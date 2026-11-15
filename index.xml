@@ -2,74 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Musings from John</title>
-    <link>http://jpeabodyjr.com/</link>
+    <link>https://jpeabodyjr.com/</link>
     <description>Recent content on Musings from John</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 28 Feb 2020 21:37:22 -0500</lastBuildDate>
-    
-	<atom:link href="http://jpeabodyjr.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jpeabodyjr.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review: &#39;On the Metal&#39; Podcast</title>
-      <link>http://jpeabodyjr.com/posts/review-on-the-metal-podcast/</link>
+      <link>https://jpeabodyjr.com/posts/review-on-the-metal-podcast/</link>
       <pubDate>Fri, 28 Feb 2020 21:37:22 -0500</pubDate>
-      
-      <guid>http://jpeabodyjr.com/posts/review-on-the-metal-podcast/</guid>
-      <description>Historically, I&amp;rsquo;m not a regular listener of podcasts. It&amp;rsquo;s usually audiobooks for me during the daily commute. Recently though, my colleague Sebastian recommended &amp;ldquo;On the Metal: Tales for the Hardware/Software Interface&amp;rdquo;. I was blown away!
-Each episode features a new guest who describes various tales from the hardware/software interface. The interview format kept the conversation moving resulting in an extremely entertaining, mind opening listening experience. Then I realized the show notes provide links to all the topics I wanted to research from each episode; mind blown.</description>
+      <guid>https://jpeabodyjr.com/posts/review-on-the-metal-podcast/</guid>
+      <description>&lt;p&gt;Historically, I&amp;rsquo;m not a regular listener of podcasts. It&amp;rsquo;s usually audiobooks for me&#xA;during the daily commute. Recently though, my colleague &lt;a href=&#34;https://twitter.com/sebschaetz&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sebastian&lt;/a&gt; recommended &lt;a href=&#34;https://oxide.computer/blog/categories/on-the-metal/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;On the Metal: Tales for the Hardware/Software Interface&amp;rdquo;&lt;/a&gt;. I was blown away!&lt;/p&gt;&#xA;&lt;p&gt;Each episode features a new guest who describes various tales from the hardware/software interface. The interview format kept the conversation moving resulting in&#xA;an extremely entertaining, mind opening listening experience. Then I realized the show notes provide links to all the topics I wanted to research from each episode; mind blown.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rebuilding my website</title>
-      <link>http://jpeabodyjr.com/posts/rebuilding-my-website/</link>
+      <link>https://jpeabodyjr.com/posts/rebuilding-my-website/</link>
       <pubDate>Thu, 27 Feb 2020 22:24:54 -0500</pubDate>
-      
-      <guid>http://jpeabodyjr.com/posts/rebuilding-my-website/</guid>
-      <description>Whelp, I&amp;rsquo;m jumping on the static website bandwagon!
-I played around a bit with Jeykll, but then put the website revamp on hold for a while. Coming back to the project I kicked off a fresh search of static site generators and discovered Hugo.
-The setup overhead is very minimal and the themes available are pretty slick. So, I&amp;rsquo;ll give this a go&amp;hellip;</description>
+      <guid>https://jpeabodyjr.com/posts/rebuilding-my-website/</guid>
+      <description>&lt;p&gt;Whelp, I&amp;rsquo;m jumping on the static website bandwagon!&lt;/p&gt;&#xA;&lt;p&gt;I played around a bit with &lt;a href=&#34;https://jekyllrb.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeykll&lt;/a&gt;, but then put the website revamp on hold for a while. Coming back to the project I kicked off a fresh search of static&#xA;site generators and discovered &lt;a href=&#34;https://gohugo.io/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The setup overhead is very minimal and the themes available are pretty slick.&#xA;So, I&amp;rsquo;ll give this a go&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>LabRat - Autonomous search and rescue robot</title>
-      <link>http://jpeabodyjr.com/projects/labrat/</link>
-      <pubDate>Thu, 02 Dec 2010 00:00:00 -0500</pubDate>
-      
-      <guid>http://jpeabodyjr.com/projects/labrat/</guid>
-      <description>One of the classes that I took while earning my Master’s Degree at CMU wasHardware for Software Engineers instructed by Professor Anthony Lattanze. Not only was the class well taught, but the final project was a blast.
-The LabRat is an autonomous robot designed by John Peabody Jr and Krishna Ersson to complete a search-and-rescue challenge. On a 4′ x 6′ game board, the LabRat was designed and programmed to autonomously locate pylons, randomly placed, and return the pylons to the home square.</description>
+      <link>https://jpeabodyjr.com/projects/labrat/</link>
+      <pubDate>Thu, 02 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://jpeabodyjr.com/projects/labrat/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://jpeabodyjr.com/labrat/LabRat.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;One of the classes that I took while earning my Master’s Degree at CMU wasHardware for Software Engineers instructed by Professor Anthony Lattanze. Not only was the class well taught, but the final project was a blast.&lt;/p&gt;&#xA;&lt;p&gt;The LabRat is an autonomous robot designed by John Peabody Jr and Krishna Ersson to complete a search-and-rescue challenge. On a 4′ x 6′ game board, the LabRat was designed and programmed to autonomously locate pylons, randomly placed, and return the pylons to the home square.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>COTS Impact on Software Development Life Cycles</title>
-      <link>http://jpeabodyjr.com/papers/cots_impact_on_sdlcs/</link>
-      <pubDate>Sun, 08 Aug 2010 00:00:00 -0400</pubDate>
-      
-      <guid>http://jpeabodyjr.com/papers/cots_impact_on_sdlcs/</guid>
-      <description>Executive Summary The utilization of commercial off-the-shelf (COTS) components is increasing within many organizations. The idea being that delivery dates, effort, cost, and the amount of custom development can all be reduced by integrating COTS components into a system. The issue however, is that many organizations lack a process oriented evaluation method for selecting off-the-shelf components they will benefit from. The result can be the selection of a component that increases development overhead rather than reducing it.</description>
+      <link>https://jpeabodyjr.com/papers/cots_impact_on_sdlcs/</link>
+      <pubDate>Sun, 08 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://jpeabodyjr.com/papers/cots_impact_on_sdlcs/</guid>
+      <description>&lt;h2 id=&#34;executive-summary&#34;&gt;&#xA;  Executive Summary&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#executive-summary&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The utilization of commercial off-the-shelf (COTS) components is increasing within many organizations. The idea being that delivery dates, effort, cost, and the amount of custom development can all be reduced by integrating COTS components into a system. The issue however, is that many organizations lack a process oriented evaluation method for selecting off-the-shelf components they will benefit from. The result can be the selection of a component that increases development overhead rather than reducing it.&#xA;A handful of COTS component evaluation methods exist, but integrating these methods within an organizations development life cycle can be challenging. The paradigm shift from complete custom developed systems to COTS-based systems “requires new understandings about the COTS marketplace and how all engineering, business, and management activities must work together harmoniously to accommodate it.” [Oberndorf 00] This report provides a high level overview of three existing COTS evaluation methods:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rushing Risk Management</title>
-      <link>http://jpeabodyjr.com/papers/rushing-risk-management/</link>
-      <pubDate>Sun, 08 Aug 2010 00:00:00 -0400</pubDate>
-      
-      <guid>http://jpeabodyjr.com/papers/rushing-risk-management/</guid>
-      <description>Executive Summary (Full paper here) Continuous risk management is a process that a development team can utilize in a software development life-cycle to drastically decrease the chances of project failure. This process typically contains the following activities:
- Identify Analyze Plan Track Control  Additionally, the most important aspect of the process is communication. Communication is what facilitates understanding, as well as informs the decisions makers of risks that exist, and what the recommendations are to mitigate those risks before they turn into problems.</description>
+      <link>https://jpeabodyjr.com/papers/rushing-risk-management/</link>
+      <pubDate>Sun, 08 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://jpeabodyjr.com/papers/rushing-risk-management/</guid>
+      <description>&lt;p&gt;Executive Summary (Full paper here)&#xA;Continuous risk management is a process that a development team can utilize in a software development life-cycle to drastically decrease the chances of project failure. This process typically contains the following activities:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Identify&lt;/li&gt;&#xA;&lt;li&gt;Analyze&lt;/li&gt;&#xA;&lt;li&gt;Plan&lt;/li&gt;&#xA;&lt;li&gt;Track&lt;/li&gt;&#xA;&lt;li&gt;Control&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Additionally, the most important aspect of the process is communication. Communication is what facilitates understanding, as well as informs the decisions makers of risks that exist, and what the recommendations are to mitigate those risks before they turn into problems.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About</title>
-      <link>http://jpeabodyjr.com/about/</link>
+      <link>https://jpeabodyjr.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jpeabodyjr.com/about/</guid>
-      <description>John Peabody Jr has been a New Englander his entire life. Raised in Connecticut, John was exposed to computers and the world of technology at an early age. Throughout high school, his interest with technology was fostered through various classes and part time jobs in the Information Technology field.
-After high school John attended Wentworth Institute of Technology (WIT) in Boston, Massachusetts and majored in Computer Engineering. During his attendance at WIT, he accepted an intern position at MIT Lincoln Laboratory in the Aerospace Division.</description>
+      <guid>https://jpeabodyjr.com/about/</guid>
+      <description>&lt;p&gt;John Peabody Jr has been a New Englander his entire life. Raised in Connecticut, John was exposed to computers and the world of technology at an early age. Throughout high school, his interest with technology was fostered through various classes and part time jobs in the Information Technology field.&lt;/p&gt;&#xA;&lt;p&gt;After high school John attended Wentworth Institute of Technology (WIT) in Boston, Massachusetts and majored in Computer Engineering. During his attendance at WIT, he accepted an intern position at MIT Lincoln Laboratory in the Aerospace Division. Upon receiving his Bachelor’s Degree from WIT he accepted a full time position with the Aerospace Division of MIT Lincoln Laboratory. John continued to expand his engineering skills through various projects at MIT Lincoln Laboratory and in 2011, John completed the Master of Science in Information Technology – Software Engineering distance program from Carnegie Mellon University.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
